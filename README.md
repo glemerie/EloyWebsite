@@ -12,6 +12,9 @@ This is a design mockup, not an implemented website. All photographs in the conc
 ## Planned website
 
 - Home, About, Services, Gallery, and Contact pages.
+- Services: Weddings, Birthdays & Celebrations, and Portraits, each with tailored quotes.
+- Gallery categories: Weddings, Birthdays, Portraits, and Street Notes. Birthdays have a dedicated image and category in the homepage concept.
+- Enquiry service choices include birthdays, with optional guest count and event details.
 - Privacy Notice, Terms & Conditions, and Copyright & Image Usage pages.
 - Responsive layouts, accessible gallery interactions, restrained animation, and optimised images.
 - Supabase for portfolio data, image storage, administrator authentication, and private enquiries.
